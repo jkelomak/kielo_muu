@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506245700 source:/home/stobe/koodausta/KieloElokuu/csvToJsTaulu/main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstddef>
+	<vector>
+
